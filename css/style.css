@@ -1,9 +1,19 @@
+
+
+@import url(https://fonts.google.com/specimen/Inter/tester?vfquery=inte);
+
+
+.cc-navbar{
+  margin-left: 6%;
+  margin-right: 6%;
+  margin-top: 1%;
+  margin-bottom:4%;
+  font-family: 'Inter', serif;
+  text-align: justify;
+}
 .navbar{
   display: flex;
   position: relative;
-}
-.navbar-nav{
-
 }
 .navbar-brand{
   color: rgb(70, 69, 69);
@@ -13,4 +23,14 @@
 }
 .navbar-brand span{
   color: #fb1f1f;
+}
+.btn-order{
+  border-color: black;
+}
+.text-contenu{
+  position: relative;
+ color: #fb1f1f;
+ font-size: 8em;
+ text-align: left;
+ text-align: justify;
 }
